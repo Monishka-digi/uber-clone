@@ -11,7 +11,7 @@
             -translate-x-1/2
             -translate-y-1/2
             bg-green-700
-            p-0.5px-2
+            p-1
             text-gray-100
             rounded-3xl
             text-xs

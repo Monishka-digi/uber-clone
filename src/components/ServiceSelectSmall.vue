@@ -41,7 +41,7 @@
       background-color: rgb(237, 237, 237);
     }
     .custom-height{
-      height: 100px;
+      height: 70px;
     }
   }
 </style>
